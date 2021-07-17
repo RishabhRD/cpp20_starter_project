@@ -4,8 +4,6 @@
 
 [![Build Status](https://travis-ci.com/RishabhRD/cpp20_starter_project.svg?branch=master)](https://travis-ci.com/RishabhRD/cpp20_starter_project)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ro4lbfoa7n0sy74c/branch/master?svg=true)](https://ci.appveyor.com/project/RishabhRD/cpp20_starter_project/branch/master)
-
 ![Build status](https://github.com/RishabhRD/cpp20_starter_project/workflows/CMake/badge.svg)
 
 Modified [lefticus/cpp_starter_project](https://github.com/lefticus/cpp_starter_project) for C++20 that suits my workflow.
@@ -36,7 +34,7 @@ Note about install commands:
 - In case of an error in cmake, make sure that the dependencies are on the PATH.
 
 ### Necessary Dependencies
-1. A C++ compiler that supports C++17.
+1. A C++ compiler that supports C++20.
 See [cppreference.com](https://en.cppreference.com/w/cpp/compiler_support)
 to see which features are supported by each compiler.
 The following compilers should work:
