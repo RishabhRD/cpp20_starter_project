@@ -6,7 +6,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ro4lbfoa7n0sy74c/branch/master?svg=true)](https://ci.appveyor.com/project/RishabhRD/cpp20_starter_project/branch/master)
 
-![CMake](https://github.com/RishabhRD/cpp20_starter_project/workflows/CMake/badge.svg)
+![Build status](https://github.com/RishabhRD/cpp20_starter_project/workflows/CMake/badge.svg)
 
 Modified [lefticus/cpp_starter_project](https://github.com/lefticus/cpp_starter_project) for C++20 that suits my workflow.
 
