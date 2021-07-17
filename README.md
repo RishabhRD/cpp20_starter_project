@@ -8,6 +8,7 @@
 
 ![Build status](https://github.com/RishabhRD/cpp20_starter_project/workflows/CMake/badge.svg)
 
+Modified [lefticus/cpp_starter_project](https://github.com/lefticus/cpp_starter_project) for C++20 that suits my workflow.
 
 ## Getting Started
 
