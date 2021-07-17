@@ -36,7 +36,7 @@ Note about install commands:
 - In case of an error in cmake, make sure that the dependencies are on the PATH.
 
 ### Necessary Dependencies
-1. A C++ compiler that supports C++20.
+1. A C++ compiler that supports C++17.
 See [cppreference.com](https://en.cppreference.com/w/cpp/compiler_support)
 to see which features are supported by each compiler.
 The following compilers should work:
