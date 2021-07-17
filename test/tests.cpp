@@ -2,9 +2,9 @@
 
 using namespace boost::ut;
 
-unsigned int Factorial(unsigned int number)
-{
-  return number <= 1 ? number : Factorial(number - 1) * number;
+unsigned int Factorial(unsigned int number) {
+  if(number == 0 or number == 1) return 1;
+  return number * Factorial(number - 1);
 }
 
 suite errors = []{
